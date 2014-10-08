@@ -13,6 +13,7 @@ namespace MyContent.Controllers
 
         public ActionResult Index()
         {
+            var getal = 1 + 1;
             return View();
         }
 
